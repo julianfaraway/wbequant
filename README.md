@@ -6,6 +6,22 @@ Researchers around the world have demonstrated correlations between measurements
 
 ## Data
 
+- Scottish RNA data can be found at
+<https://informatics.sepa.org.uk/RNAmonitoring
+- Case data can be downloaded from
+<https://www.opendata.nhs.scot/dataset/weekly-covid-19-statistical-data-in-scotland>
+- ONS Scottish infection survey data from <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19infectionsurveyscotland/2021>
+- USA data from <https://github.com/biobotanalytics/covid19-wastewater-data>
+and displayed at <https://biobot.io/data/>.
+
+CSVs derived from these are in the [data directory](data)
+
 ## Code
+
+- Process Scottish cases and RNA counts: [R script](scotland/scotproc.R)
+- Modelling Scottish data: [Rscript](scotland/scotmodel.R) and [output](scotland/scotmodel.md)
+- Process the USA data [R script](usa/usaproc.R)
+- Model the USA data [R script](usa/usamodel.R) and 
+[output](usa/usamodel.md)
 
 
