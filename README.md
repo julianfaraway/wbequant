@@ -12,12 +12,13 @@ Researchers around the world have demonstrated correlations between measurements
 - Scottish RNA data can be found at
 <https://informatics.sepa.org.uk/RNAmonitoring
 - Case data can be downloaded from
-<https://www.opendata.nhs.scot/dataset/weekly-covid-19-statistical-data-in-scotland>
+<https://www.opendata.nhs.scot/dataset/covid-19-in-scotland>
+ and pick *Daily Case Trends by Health Board*
 - ONS Scottish infection survey data from <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19infectionsurveyscotland/2021>
 - USA data from <https://github.com/biobotanalytics/covid19-wastewater-data>
 and displayed at <https://biobot.io/data/>.
 
-CSVs derived from these are in the [data directory](data)
+CSVs derived from these are in the [data directory](data) (note that more recently collected data has not been used)
 
 ## Code
 
