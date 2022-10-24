@@ -15,6 +15,7 @@ Researchers around the world have demonstrated correlations between measurements
 <https://www.opendata.nhs.scot/dataset/covid-19-in-scotland>
  and pick *Daily Case Trends by Health Board*
 - ONS Scottish infection survey data from <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19infectionsurveyscotland/2021>
+- Scottish population data is from <https://www.opendata.nhs.scot/dataset/population-estimates> and pick *Health Board (2019) Population Estimates*
 - USA data from <https://github.com/biobotanalytics/covid19-wastewater-data>
 and displayed at <https://biobot.io/data/>.
 
